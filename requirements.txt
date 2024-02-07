@@ -1,0 +1,10 @@
+numpy
+pandas
+polars
+shiny
+aiohttp
+nest-asyncio
+matplotlib
+plotly
+seaborn
+statsmodels
